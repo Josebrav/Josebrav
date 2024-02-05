@@ -1,6 +1,8 @@
-### Hi there 👋
 
-¡Hola! 👋 Soy José Santos Bravo, un apasionado Desarrollador Full Stack en búsqueda de nuevas oportunidades para seguir creciendo como programador. Desde mi adolescencia, me sumergí en el fascinante mundo de la programación, y finalmente, en 2023, encontré en soyHenry la plataforma perfecta para potenciar mis conocimientos y habilidades.
+
+### ¡Hola mundo! 👋 
+
+Soy José Santos Bravo, un apasionado Desarrollador Full Stack en búsqueda de nuevas oportunidades para seguir creciendo como programador. Desde mi adolescencia, me sumergí en el fascinante mundo de la programación, y finalmente, en 2023, encontré en soyHenry la plataforma perfecta para potenciar mis conocimientos y habilidades.
 
 👨‍💻 Tecnologías que domino: HTML | CSS | JavaScript | Bootstrap | Chakra | React | Redux | Node.js | Express | PostgreSQL |
 
